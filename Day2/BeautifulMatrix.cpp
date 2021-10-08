@@ -17,4 +17,5 @@ int main(){
         }
     }
     cout << abs(x-3) + abs(y-3) ;
+    //print ans
 }
