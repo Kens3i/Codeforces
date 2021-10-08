@@ -15,5 +15,6 @@ int main(){
         if(arr[i] >= val && arr[i]!=0) ans++;
     }
     cout << ans ;
+    //prints the ans
     return 0;
 }
